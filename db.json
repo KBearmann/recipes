@@ -1,0 +1,17 @@
+[
+  {
+    "recipeName": "BBQ Chicken",
+    "ingredients": "4 boneless, skinless chicken breasts, 1 cup BBQ sauce, 2 tbsp olive oil, salt, pepper",
+    "instructions": "1. Preheat grill to medium-high heat. 2. Season chicken breasts with salt and pepper. 3. In a bowl, mix BBQ sauce and olive oil. 4. Grill chicken until fully cooked, basting with BBQ sauce mixture. 5. Serve hot."
+  },
+  {
+    "recipeName": "Pancakes",
+    "ingredients": "1 cup all-purpose flour, 2 tbsp sugar, 1 tsp baking powder, 1/2 tsp salt, 1 cup milk, 1 egg, 2 tbsp melted butter",
+    "instructions": "1. In a bowl, whisk together flour, sugar, baking powder, and salt. 2. In another bowl, whisk together milk, egg, and melted butter. 3. Pour wet ingredients into dry ingredients and stir until just combined. 4. Heat a griddle or pan over medium heat. 5. Pour 1/4 cup of batter for each pancake. 6. Cook until bubbles form on the surface, then flip and cook until golden brown. 7. Serve with your favorite toppings."
+  },
+  {
+    "recipeName": "Chocolate Chip Cookies",
+    "ingredients": "1 cup butter, 3/4 cup brown sugar, 3/4 cup granulated sugar, 2 large eggs, 1 tsp vanilla extract, 2 1/4 cups all-purpose flour, 1 tsp baking soda, 1/2 tsp salt, 2 cups chocolate chips",
+    "instructions": "1. Preheat oven to 350°F (175°C). 2. In a large bowl, cream together butter, brown sugar, and granulated sugar until smooth. 3. Beat in eggs one at a time, then stir in vanilla. 4. In a separate bowl, combine flour, baking soda, and salt. 5. Gradually add dry ingredients to the wet ingredients and mix until just combined. 6. Fold in chocolate chips. 7. Drop rounded tablespoons of dough onto ungreased baking sheets. 8. Bake for 10-12 minutes or until edges are golden brown. 9. Allow cookies to cool on baking sheets for 5 minutes before transferring to wire racks to cool completely."
+  }
+]
